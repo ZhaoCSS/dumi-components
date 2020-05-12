@@ -1,6 +1,4 @@
-# dumi library
-
-## Getting Started
+## 使用
 
 Install dependencies,
 
